@@ -1,0 +1,16 @@
+
+.wrapper{
+  
+    width: 950px;
+    margin:0 auto;
+
+}
+.CalculatorSection{
+    background-color: rgb(224, 218, 218);
+}
+
+.calculator{
+border: 1px solid black;
+   background-color: gray;
+    height:300px ;
+}
